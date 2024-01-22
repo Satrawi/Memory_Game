@@ -14,6 +14,10 @@ b.addEventListener('click', () =>{
     })
 })
 
+/////////////////////////////////////////////////////////////////////     
+
+colorMatching 
+
 
 
 // const changeColor = () => {
